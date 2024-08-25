@@ -1,0 +1,1 @@
+This project is developed using Java and its Jdbc packages here we have connected MySql with this java program and helps the user to perform Select, Insert, Delete operations without using any queries
